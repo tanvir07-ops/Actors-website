@@ -1,0 +1,155 @@
+h1{
+        text-align: center;
+        text-shadow: 5px 5px 5px blueviolet;
+        font-size: 3rem;
+        color:whitesmoke;
+
+
+
+}
+
+body{
+        background-image: url("2d4e69ed0f45fdae444e51a012eb0a8e.jpg");
+        
+
+
+}
+
+
+p{
+        font-size: 1.5rem;
+        font-weight: bold;
+        color:white;
+     
+       
+
+
+}
+p::first-letter{
+            
+           font-size: 50px;
+           color:red;
+            
+}
+
+
+ .div-1 .h2-div{
+
+            color:whitesmoke;
+            text-shadow: 5px 5px 5px goldenrod;
+            
+            border: 5px solid blueviolet;
+            width:350px;
+           padding:10px;
+            text-align: center;
+            border-radius: 10px;
+            position: relative;
+            left:37%;
+            background-color: crimson;
+
+            
+
+
+}
+
+.div-1 .img-div{
+
+
+               height: 300px;
+               width:300px
+
+}
+
+ .div-1 .img-div:hover{
+
+                 box-shadow: 2px 2px 2px blue;
+
+   
+}
+ .img-div2{
+
+    height: 300px;
+    width:300px;
+    position: relative;
+    left:400px;
+
+
+
+ }
+ .img-div2:hover{
+    box-shadow: 2px 2px 2px blue;    
+            
+
+
+
+ }
+
+ a{
+
+
+    border:3px solid blueviolet;
+    border-radius: 10px;
+    color:whitesmoke;
+ }
+ .a-div4{
+
+        position: relative;
+        left:600px;
+
+
+ }
+
+ .img-div3{
+
+    height: 300px;
+    width:300px;
+    position: relative;
+    left:950px;
+
+
+
+ }
+
+
+ .a-div5{
+
+    position: relative;
+    left:1350px;
+
+
+}
+
+h3{
+
+    text-align: center;
+    text-shadow: 5px 5px 5px blueviolet;
+    font-size: 3rem;
+    color:whitesmoke;
+
+
+}
+b{
+
+    text-align: center;
+    text-shadow: 5px 5px 5px hotpink;
+    font-size: 2rem;
+    color:whitesmoke;
+    position: relative;
+    left:800px;
+
+
+
+}
+
+select{
+    text-align: center;
+    position: relative;
+    left:800px;
+    border:2px solid blue;
+    font-size: 1rem;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+
+
+}
+ 
