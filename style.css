@@ -62,7 +62,7 @@ p::first-letter{
 
  .div-1 .img-div:hover{
 
-                 box-shadow: 2px 2px 2px blue;
+                 box-shadow: 5px 5px 12px hotpink;
 
    
 }
@@ -77,7 +77,7 @@ p::first-letter{
 
  }
  .img-div2:hover{
-    box-shadow: 2px 2px 2px blue;    
+    box-shadow: 5px 5px 12px blue;    
             
 
 
@@ -107,6 +107,11 @@ p::first-letter{
     left:950px;
 
 
+
+ }
+ .img-div3:hover{
+
+         box-shadow: 5px 5px 15px goldenrod;
 
  }
 
